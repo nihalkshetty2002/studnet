@@ -21,7 +21,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class Login extends AppCompatActivity {
 
 
-    private static final String usernam = "admin";
+    private static final String username = "admin";
     private static final String pass = "pass";
 
 
